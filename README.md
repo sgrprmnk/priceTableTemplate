@@ -1,7 +1,7 @@
 # priceTableTemplate
 <h1>priceTableTemplate</h1>
     <img
-      src="https://github.com/sgrprmnk/priceTableTemplate/blob/main/price.png"
+      src="https://github.com/sgrprmnk/priceTableTemplate/blob/main/price.png">
     
 
     <h2>Usage:</h2>
@@ -13,8 +13,6 @@
     <p>It can be used from a smartphone, tablet and computer.</p>
     <h2>Tech Stack</h2>
     <p>
-      <!-- more than 61% of the code is written using JavaScript and rest of the code
-      with html css -->
       more than 61% of the code is written using CSS and rest of the code with
       html
     </p>
