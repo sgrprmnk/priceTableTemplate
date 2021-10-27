@@ -1,9 +1,7 @@
 # priceTableTemplate
 <h1>priceTableTemplate</h1>
     <img
-      src="https://github.com/sgrprmnk/priceTableTemplate/blob/main/price.png">
-    
-
+      src="https://github.com/sgrprmnk/priceTableTemplate/blob/main/price.png"/>
     <h2>Usage:</h2>
     <ul>
       <li>It allows users to manage their tasks</li>
